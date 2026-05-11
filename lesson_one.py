@@ -18,3 +18,6 @@
 # Hello Kyrylo
 
 # input  bazza ... 
+
+name = "kyrylo"
+ 
